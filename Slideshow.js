@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   layoutIndicator: {
     height: 15,
     position: 'absolute',
-    bottom: 5,
+    bottom: 30,
     left: 0,
     right: 0,
     justifyContent: 'center',
